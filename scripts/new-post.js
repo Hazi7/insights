@@ -48,5 +48,3 @@ draft: false
 `
 
 fs.writeFileSync(path.join(targetDir, fileName), content)
-
-console.log(`Post ${fullPath} created`)
