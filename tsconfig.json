@@ -19,5 +19,5 @@
       "@/*": ["src/*"]
     }
   },
-  "include": ["src/**/*"]
+  "include": ["src/**/*", "test/command-pattern/test.ts", "test/command-pattern/56.ts"]
 }
